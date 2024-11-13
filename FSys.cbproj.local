@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.327,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Decorator.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\FAT32.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Fabric.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\SQLite\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.186,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\BaseFileSystem.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\NTFS.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread1.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread1.cpp=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread1.cpp=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Chern\FileSys.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread1.h=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\BaseFileSystem.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.708,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\NTFS.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\FSys.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread1.h=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\DataBase.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.621,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Iterator.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.238,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\FSysPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.517,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\FAT32.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread2.h=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread2.h=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\DataBase.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.585,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.417,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Fabric.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Iterator.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.063,=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\SQLite\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread2.cpp=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.954,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread2.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Thread2.cpp=C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\FS\Unit2.cpp</Transaction>
+    <Transaction>2024.11.13 22:28:06.260,C:\Users\mihai\OneDrive\Документы\Embarcadero\Studio\Projects\Chern\FileSys.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="SQLite"/>
+    <File Path="SQLite\sqlite3.c"/>
+    <File Path="SQLite\sqlite3.h"/>
+    <File Path="BaseFileSystem.cpp"/>
+    <File Path="BaseFileSystem.h"/>
+    <File Path="DataBase.cpp"/>
+    <File Path="DataBase.h"/>
+    <File Path="Decorator.cpp"/>
+    <File Path="Decorator.cpp"/>
+    <File Path="Decorator.h"/>
+    <File Path="Fabric.cpp"/>
+    <File Path="Fabric.h"/>
+    <File Path="FAT32.cpp"/>
+    <File Path="FAT32.h"/>
+    <File Path="FSys.cpp"/>
+    <File Path="FSysPCH1.h"/>
+    <File Path="Iterator.cpp"/>
+    <File Path="Iterator.h"/>
+    <File Path="NTFS.cpp"/>
+    <File Path="NTFS.h"/>
+    <File Path="Thread1.cpp"/>
+    <File Path="Thread1.cpp"/>
+    <File Path="Thread1.h"/>
+    <File Path="Thread2.cpp"/>
+    <File Path="Thread2.cpp"/>
+    <File Path="Thread2.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
